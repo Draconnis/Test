@@ -1,2 +1,2 @@
-Hello Jean-Marc Prud'Homme
+Hello
 Change 3
